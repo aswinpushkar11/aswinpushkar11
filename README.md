@@ -1,5 +1,5 @@
 ### Hi there 👋
-I WRITE CODE
+Open to learning new tech and exploring new opportunities in Data science and Machine Learning.
 <!--
 **aswinpushkar11/aswinpushkar11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
