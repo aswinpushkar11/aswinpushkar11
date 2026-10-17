@@ -1,55 +1,31 @@
 ### Hi there 👋
 
+I am [Aswin Pushkar](https://www.linkedin.com/in/aswinpushkar11/). I am a **Gen AI Developer & Data Engineer** at Infosys Limited with 4+ years of industry experience spanning Generative AI, Agentic Workflows, Enterprise Data Engineering. 
+
+Currently, I specialize in development of end-to-end **Retrieval-Augmented Generation (RAG)** systems and **LLM-powered AI Agents** on **Microsoft Azure** and **AWS**. Alongside my GenAI work, I have a strong foundation in enterprise **ETL development** (Informatica PowerCenter, SQL, Oracle, Unix), data warehousing, and machine learning using Python.
+
+### 🛠️ Languages, Frameworks, and Tools
+
+- **Generative AI & ML:** Python, LangChain, LangGraph, GPT-4o, Claude Sonnet 4.5, Amazon Titan, Prompt Engineering, RAG, Scikit-Learn, Deep Learning, Pandas, NumPy
+- **Cloud & Backend:** Microsoft Azure (AI Search, Functions, Container Apps, Blob Storage, Cosmos DB, Key Vault, Active Directory), AWS (Bedrock, S3, Glue, SageMaker, DataZone), FastAPI, Pydantic, Streamlit
+- **Databases & Data Engineering:** PostgreSQL (`pgvector`), Oracle DB, PL/SQL, MySQL, Informatica PowerCenter, Databricks, Ab Initio, Unix Scripting
+- **Visualization & Tools:** Tableau, Power BI, Matplotlib, Seaborn, Plotly, Mermaid.js, Visual Studio Code, Git, Jupyter Notebook, Confluence
+
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/4430336?s=200&v=4" alt="Oracle"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
+<code><img height="40" src="https://companieslogo.com/img/orig/INFA-c4767c1c.png?t=1636076858" alt="Informatica"></code>
+
+---
 
 
-I am [AswinPushkar](https://www.linkedin.com/in/aswinpushkar11/) . I am an ETL Developer with 1.5 years of experience in Informatica PowerCentre Tool.I am also passionate about data science and machine learning.I am learning exploratory Data Analysis ,Machine Learning using Python  and I have applied my knowledge and skills to various projects and challenges, such as analyzing customer behavior, predicting sales, and creating dashboards and visualizations. I am eager to learn new technologies and explore new data science and machine learning opportunities. 
+### 💬 Reach Out to Me
 
- <img align="right" alt="GIF" src="https://imgs.search.brave.com/nK7LxLvtMQtzOVHmI_1DI2RGy9FfmLQI5Dins0rqrOI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJiYXQuY29t/L2ltZy8yNTg5OC1k/YXRhLWFuYWx5dGlj/cy1kYXJ3aW4tbWFu/YWdlbWVudC1jb25z/dWx0YW50cy5qcGc" width="500" height="320" />
-
-
-### Languages and Tools
-
-- Python
-- Visual Studio Code
-- Git
-- Jupyter Notebook
-- SQL
-- Informatica PowerCenter
-- Unix 
-- Oracle  
-
-<code><img height="40" src="https://avatars.githubusercontent.com/u/4430336?s=200&v=4"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://companieslogo.com/img/orig/INFA-c4767c1c.png?t=1636076858"></code>
-
-Find all my Projects at [LINK](https://jovian.com/aswinpushkar11/notebooks)  
-Feel free to reach me at [EMAIL](aswinpushkar11@gmail.com)
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**aswinpushkar11/aswinpushkar11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📂 Find my Data Science notebooks at [Jovian](https://jovian.com/aswinpushkar11/notebooks)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/aswinpushkar11/)
+- 📧 Feel free to reach me at [aswinpushkar11@gmail.com](mailto:aswinpushkar11@gmail.com)
